@@ -3,14 +3,14 @@ const navMenu = document.getElementById("nav-menu"),
   navToggle = document.getElementById("nav-toggle"),
   navClose = document.getElementById("nav-close");
 
-/* Menu show */
+/* Menu Show */
 if (navToggle) {
   navToggle.addEventListener("click", () => {
     navMenu.classList.add("show-menu");
   });
 }
 
-/* Menu hidden */
+/* Menu Hidden */
 if (navClose) {
   navClose.addEventListener("click", () => {
     navMenu.classList.remove("show-menu");
@@ -66,7 +66,7 @@ const sr = ScrollReveal({
   origin: "top",
   distance: "60px",
   duration: 2500,
-  reset: true, // Animation repeat
+  // reset: true, // Animation Repeat
 });
 
 sr.reveal(`.home__swiper, .home__footer`);

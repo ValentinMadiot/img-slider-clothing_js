@@ -106,7 +106,7 @@ img {
   column-gap: 0.5rem;
 }
 
-/* Navigation for mobile devices */
+/* Navigation for Mobile Devices */
 @media screen and (max-width: 1150px) {
   .nav__menu {
     position: fixed;
@@ -146,7 +146,7 @@ img {
   right: 0;
 }
 
-/* Background header */
+/* Background Header */
 .bg-header {
   background-color: var(--first-color);
   box-shadow: 0 2px 16px hsla(0, 0%, 0%, 0.1);
@@ -260,7 +260,7 @@ img {
 }
 
 /*=============== BREAKPOINTS ===============*/
-/* For small devices */
+/* For Small Devices */
 @media screen and (max-width: 330px) {
   .container {
     margin-inline: 1rem;
@@ -283,7 +283,7 @@ img {
   }
 }
 
-/* For medium devices */
+/* For Medium Devices */
 @media screen and (min-width: 768px) {
   .nav__menu {
     width: 50%;
@@ -307,7 +307,7 @@ img {
   }
 }
 
-/* For large devices */
+/* For Large Devices */
 @media screen and (min-width: 1152px) {
   .container {
     margin-inline: auto;
