@@ -15,43 +15,45 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Slider interactif de vêtements avec navigation fluide, design moderne et responsive.
+Ce projet propose un slider interactif de vêtements, pensé pour offrir une navigation fluide et une présentation élégante des produits.
 
-Chaque slide présente un produit (nom, prix, image) au sein d’un carrousel animé avec **Swiper.js**, **ScrollReveal**, et **CSS personnalisé**.
+Chaque slide met en avant un article avec son nom, prix et visuel, au sein d’un carrousel animé avec **Swiper.js**, **ScrollReveal**, et **CSS personnalisé**.
 
-Idéal pour projets e-commerce, landing pages ou galeries de collections mode.
+Parfait pour projets e-commerce, des landing pages produits ou des galeries de collections mode.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
+- HTML5 sémantique et accessible
 - CSS3 moderne (variables, media queries, transitions)
-- JavaScript ES6
-- [Swiper.js](https://swiperjs.com/)
-- [ScrollReveal](https://scrollrevealjs.org/)
-- Remix Icons
+- JavaScript ES6 structuré et clair
+- [Swiper.js](https://swiperjs.com/) pour un carrousel performant et personnalisable
+- [ScrollReveal](https://scrollrevealjs.org/) pour des animations d’entrée
+- Remix Icons pour des icônes vectorielles modernes
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
-- Slider horizontal avec navigation par flèches
-- Animation d’entrée via ScrollReveal
-- Menu mobile animé (show/hide)
-- Responsive sur tous formats (desktop / mobile)
-- Interface épurée et modulaire
-- Section footer avec liens sociaux et langues
+- Carrousel horizontal avec navigation par flèches
+- Animation d’entrée fluides avec ScrollReveal
+- Menu mobile animé avec effet affiché/caché
+- Affichage optimisé sur tous les formats
+- Structure modulaire pour une intégration facile
+- Footer complet avec liens sociaux et sélection de langue
 
 ## <br /> <a name="installation">🚀 Installation</a>
 
 ### ✅ Prérequis
 
-- Navigateur moderne (Chrome recommandé)
-- Éditeur de code (VS Code)
+- [Google Chrome](https://www.google.com/) &nbsp;—&nbsp; Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) &nbsp;—&nbsp; Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) &nbsp;—&nbsp; Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/img-slider-clothing_js.git
+git clone https://github.com/ValentinMadiot/img-slider-clothing_js
+cd img-slider-clothing_js
 ```
 
-### ▶️ Lancer localement
+### ▶️ Lancer le projet
 
-Il suffit d’ouvrir le fichier index.html dans un navigateur, ou d’utiliser l’extension Live Server sur VS Code.
+Il suffit d’ouvrir le fichier `index.html` dans un navigateur, ou d’utiliser l’extension **Live Server** sur VS Code pour un aperçu dynamique.
