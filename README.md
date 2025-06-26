@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du slider de vêtements">  
   </a>  
   </br></br>  
-  <h3 align="center">👕 Diaporama d’images de Vêtements</h3>  
+  <h3 align="center">👕 Carrousel d’images de Vêtements</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,7 +15,7 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Ce projet propose un slider interactif de vêtements, pensé pour offrir une navigation fluide et une présentation élégante des produits.
+Ce projet propose un carrousel interactif de vêtements, pensé pour offrir une navigation fluide et une présentation élégante des produits.
 
 Chaque slide met en avant un article avec son nom, prix et visuel, au sein d’un carrousel animé avec **Swiper.js**, **ScrollReveal**, et **CSS personnalisé**.
 
