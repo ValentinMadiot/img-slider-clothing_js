@@ -24,10 +24,10 @@ Parfait pour projets e-commerce, des landing pages produits ou des galeries de c
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
 - HTML5 sémantique et accessible
-- CSS3 moderne (variables, media queries, transitions)
-- JavaScript ES6 structuré et clair
-- [Swiper.js](https://swiperjs.com/) pour un carrousel performant et personnalisable
-- [ScrollReveal](https://scrollrevealjs.org/) pour des animations d’entrée
+- CSS3 moderne avec variables, media queries et animations
+- JavaScript ES6 clair et modulaire
+- [Swiper.js](https://swiperjs.com/) pour un carrousel fluide et personnalisable
+- [ScrollReveal](https://scrollrevealjs.org/) pour des animations d’entrée synchronisées
 - Remix Icons pour des icônes vectorielles modernes
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
