@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu du slider de vêtements">  
   </a>  
   </br></br>  
-  <h3 align="center">👕 Image Slider de Vêtements</h3>  
+  <h3 align="center">👕 Diaporama d’images de Vêtements</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
